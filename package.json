@@ -1,0 +1,25 @@
+{
+  "name": "clear-cleaning-app",
+  "version": "1.0.0",
+  "description": "An app to uninstall cleaning apps on Android",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "iconv-lite": "^0.6.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": [
+    "android",
+    "uninstall",
+    "cleaning-apps",
+    "adb"
+  ]
+}
